@@ -1,3 +1,3 @@
 # devops
 learning
-dfd
+i just started my trianing
